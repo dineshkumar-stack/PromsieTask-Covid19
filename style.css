@@ -1,0 +1,37 @@
+.navbar {
+    background: rgb(9, 9, 39);
+    
+}
+
+.card-text {
+    color: aliceblue;
+    font-size: 2px;
+    font-size: 1.2vw;
+}
+
+.card-img-top {
+    width: 10%;
+    height: 10%;
+}
+
+.h5,
+.card-title {
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 2px;
+    font-size: 1.2vw;
+}
+
+body {
+    background-color: rgba(64, 64, 88, 0.39);
+}
+
+.card-img,
+.card-img-overlay {
+    border: 10px solid rgb(9, 9, 39);
+}
+
+h2{
+    text-align: center;
+    color: rgb(6, 23, 37);
+}
